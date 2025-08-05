@@ -14,13 +14,6 @@ The game features background music, sound effects, smooth scrolling, and mobile-
 - Sound effects and music
 - Playable on desktop and mobile (touch/click or spacebar to jump)
 
-## Play Online
-
-Try it instantly in your browser:  
-[Play Endless Runner Online](https://pygbag.com/#?repo=[(https://kotarosan-0726.github.io/Endless-Runner-Kotaro-San/)]
-
-*(Replace `yourusername/endless-runner` with your actual GitHub repo path)*
-
 ## How to Run Locally
 
 1. Install Python and [pygame](https://www.pygame.org/wiki/GettingStarted).
